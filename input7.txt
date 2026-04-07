@@ -1,0 +1,9 @@
+6
+r 0
+s 0
+t 0
+u 8
+v 9
+w 7
+rstuvwrstuvwrstuvwrstuvwrs
+wvutsrwvutsrwvutsrwvutsrwv

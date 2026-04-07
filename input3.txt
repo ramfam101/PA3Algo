@@ -1,0 +1,9 @@
+6
+x 0
+y 0
+z 10
+w 5
+p 3
+q 7
+xyzwpqxyzwpqxyzwpqxyzwpqx
+qpwzqpwzqpwzqpwzqpwzqpwzq
