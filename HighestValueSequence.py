@@ -1,6 +1,7 @@
+import time
+import matplotlib.pyplot as plt
 
-
-def read_input(filename):
+def readinput(filename):
     with open(filename, 'r') as f:
         K = int(f.readline())
         values = {}
@@ -36,12 +37,24 @@ def getstring(dp, A, B):
             j -= 1
     return ''.join(reversed(result))
 
+def plotresults(inputs):
+    times = []
+    for f in inputs:
+        values, A, B = readinput(f)
+        starttime = time.time()
+        dp = dpcalc(values, A, B)
+        times.append(time.time() - starttime)
+    plt.bar(inputs, times)
+    plt.ylabel("Runtime (s)")
+    plt.show()
+
+
 if __name__ == "__main__":
     inputs = ["input1.txt",
         "input2.txt",   "input3.txt",   "input4.txt",   "input5.txt",
         "input6.txt",   "input7.txt",   "input8.txt",   "input9.txt",   
         "input10.txt"]
-    values, A, B = read_input(inputs[1])
+    values, A, B = readinput(inputs[1])
     print(values)
     print(A)
     print(B)
@@ -49,3 +62,4 @@ if __name__ == "__main__":
     print(dp[-1][-1])
     sequence = getstring(dp, A, B)
     print(sequence)
+    plotresults(inputs)

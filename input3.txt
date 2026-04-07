@@ -1,9 +1,29 @@
-6
-x 0
-y 0
-z 10
-w 5
+26
+a 1
+b 4
+c 7
+d 6
+e 5
+f 2
+g 5
+h 6
+i 9
+j 7
+k 9
+l 6
+m 1
+n 2
+o 5
 p 3
-q 7
-xyzwpqxyzwpqxyzwpqxyzwpqx
-qpwzqpwzqpwzqpwzqpwzqpwzq
+q 10
+r 5
+s 1
+t 2
+u 10
+v 7
+w 6
+x 6
+y 7
+z 10
+gylwobzvzywemfkbjzgulkyzosehzpotbpnweyceprgdxgpqkpnyfsgkrhitblzzbfgywwjevsp
+zravhryddcohpsfqgmxvclhauqgtolabwxovpddixuwxfgcuwkqeywzvwatiyuwvgucwwfvlhuf

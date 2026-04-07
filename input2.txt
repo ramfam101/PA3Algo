@@ -1,8 +1,29 @@
-5
-a 1
-b 3
-c 6
+26
+a 8
+b 7
+c 4
 d 2
-e 4
-abcdeabcdeabcdeabcdeabcde
-edcbaedcbaedcbaedcbaedcba
+e 2
+f 7
+g 6
+h 7
+i 7
+j 8
+k 1
+l 2
+m 1
+n 7
+o 6
+p 2
+q 4
+r 4
+s 4
+t 9
+u 8
+v 3
+w 7
+x 3
+y 5
+z 8
+fmxqddtotlpjzdmtwderpkpmgoyrcxttiheassztncqvnfjeyx
+xpmcjzuggoctvzndryenpzytrskrjxlgbaopasbbainhmoswog
